@@ -1,0 +1,19 @@
+{
+    "name": "Goku",
+    "symbol": "",
+    "image": "Goku.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "Goku.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2QtcgtqbYHyRPRWBreyfQGLiX44s3jJbER4dooyhatT8",
+          "share": 100
+        }
+      ]
+    }
+  }
